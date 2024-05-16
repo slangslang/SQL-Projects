@@ -1,5 +1,7 @@
 -- PART 1
 
+
+
 -- 1. Get all employees.
 
 SELECT *
@@ -63,7 +65,11 @@ CREATE TABLE employee (
     PRIMARY KEY(Employee_id)
 );
 
+
+
 -- PART 2
+
+
 
 -- 1. Get the length of the text in the 'First_name' column
 
@@ -140,6 +146,8 @@ WHERE First_name NOT IN ('bob', 'alex');
 
 -- PART 3
 
+
+
 -- 1. Get all the details about employees whose first name begins with 'B'
 
 SELECT *
@@ -203,6 +211,8 @@ WHERE YEAR(Joining_date) = 2019;
 
 
 -- PART 4
+
+
 
 -- 1. Get all the details on employees whose participation month (Joining_date) is “January”
 
