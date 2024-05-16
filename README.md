@@ -6,7 +6,7 @@ In this repository you'll find my very first MYSQL project. Here's a list of thi
       - Input data into the tables
       - Perform practice exercises based on the information within the database tables
 
-& here are the tables I've used to my this project happen
+& here are the tables I've used to make this project happen
 
 ![Employee_table](https://github.com/slangslang/SQL-Projects/assets/79164773/d8c3a58d-eeed-4f96-ba7c-59fa6176a944)
 
